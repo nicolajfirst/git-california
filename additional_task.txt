@@ -1,3 +1,14 @@
+Amend a Commit
+Let's try to use the git command in combining commits.
+
+This task can take you about 0.5 hour to complete.
+
+Please do the following:
+
+Create two additional commits in the update-readme branch.
+Use a git command to combine both commits into a single one.
+Share git log with mentor.
+
 Add a Cherry-Pick
 Cherry-picking is the act of picking a commit from a branch and applying it to another. Let’s try your hand at practicing!
 
