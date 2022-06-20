@@ -1,0 +1,12 @@
+Add a Cherry-Pick
+Cherry-picking is the act of picking a commit from a branch and applying it to another. Let’s try your hand at practicing!
+
+This task can take you about 1 hour to complete.
+
+Please do the following:
+
+Create a new branch – cherry-pick-readme branch from update-readme. Switch to this branch. Add changes in the README.md file.
+Create a commit with a commit message `Cherry-pick readme`.
+Make sure to master and create a new branch from master - release.
+Use cherry-pick to pick commits from cherry-pick-readme to the release branch.
+Create a pull request release back to master and add your mentor as a reviewer.
